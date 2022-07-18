@@ -1,0 +1,34 @@
+Parts List:
+
+C15 - 100uf 25v Electrolytic
+C101,C201 - 2200uf 25v Electrolytic
+C102,C202 - 4.7uf 25v Electrolytic
+C103,C203 - 220uf 10v Electrolytic
+C104,C204 - 10uf 10v Electrolytic
+C105,C205,
+C106,C206,
+C109,C209,
+C114,C214 - 100uf 16v Electrolytic
+C111,C211 - 220uf 25v Electrolytic
+
+C107,C207,
+C108,C208 - .1uf 50v Ceramic
+C113,C213 - .1uf 25v Ceramic
+C116,C216 - .001uf 50v Ceramic
+
+C110,C210,
+C112,C212 - 3.3uf 16v Tantalum
+
+R102,R202 - 100 ohms, 1/4W, 5%
+R103,R203 - 2.7k ohms, 1/4W, 5%
+R105,R205 - 4.7k ohms, 1/4W, 5%
+R106,R206,
+R107,R207 - 1 ohm, 1/4W, 5%
+R108,R208 - 100k ohms, 1/4W, 5%
+R109,R209 - 330 ohms, 1/4W, 5%
+R10,R11,
+R104,R204 - 1k ohms, 1/4W, 5%
+
+Q101,Q201,Q2 - 2SC458
+IC1, IC2 - MB3733
+IC4, IC5 - MB3110A
