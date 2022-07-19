@@ -170,10 +170,10 @@ F 3 "" H 7200 2900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C104
+L Device:CP1_Small C103
 U 1 1 62D4C99C
 P 7300 2550
-F 0 "C104" H 7200 2700 50  0000 L CNN
+F 0 "C103" H 7200 2700 50  0000 L CNN
 F 1 "CP1_Small" H 7391 2505 50  0001 L CNN
 F 2 "" H 7300 2550 50  0001 C CNN
 F 3 "~" H 7300 2550 50  0001 C CNN
@@ -181,10 +181,10 @@ F 3 "~" H 7300 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C103
+L Device:CP1_Small C104
 U 1 1 62D4CE13
 P 7500 2550
-F 0 "C103" H 7400 2450 50  0000 L CNN
+F 0 "C104" H 7400 2450 50  0000 L CNN
 F 1 "CP1_Small" H 7591 2505 50  0001 L CNN
 F 2 "" H 7500 2550 50  0001 C CNN
 F 3 "~" H 7500 2550 50  0001 C CNN
@@ -637,10 +637,10 @@ F 3 "" H 7200 5750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C204
+L Device:CP1_Small C203
 U 1 1 62F1FC8B
 P 7300 5400
-F 0 "C204" H 7200 5550 50  0000 L CNN
+F 0 "C203" H 7200 5550 50  0000 L CNN
 F 1 "CP1_Small" H 7391 5355 50  0001 L CNN
 F 2 "" H 7300 5400 50  0001 C CNN
 F 3 "~" H 7300 5400 50  0001 C CNN
@@ -648,10 +648,10 @@ F 3 "~" H 7300 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C203
+L Device:CP1_Small C204
 U 1 1 62F1FC91
 P 7500 5400
-F 0 "C203" H 7400 5300 50  0000 L CNN
+F 0 "C204" H 7400 5300 50  0000 L CNN
 F 1 "CP1_Small" H 7591 5355 50  0001 L CNN
 F 2 "" H 7500 5400 50  0001 C CNN
 F 3 "~" H 7500 5400 50  0001 C CNN
@@ -1353,4 +1353,6 @@ F 3 "~" H 5200 5400 50  0001 C CNN
 	1    5200 5400
 	1    0    0    -1  
 $EndComp
+Text Notes 950  5350 0    50   ~ 0
+C15 - 100uf 25v Electrolytic\nC101,C201 - 2200uf 25v Electrolytic\nC102,C202 - 4.7uf 25v Electrolytic\nC103,C203 - 10uf 16v Electrolytic\nC104,C204 - 220uf 16v Electrolytic\nC105,C205,\nC106,C206,\nC109,C209,\nC114,C214 - 100uf 16v Electrolytic\nC111,C211 - 220uf 25v Electrolytic\n\nC107,C207,\nC108,C208 - .1uf 50v Ceramic\nC113,C213 - .1uf 25v Ceramic\nC116,C216 - .001uf 50v Ceramic\n\nC110,C210,\nC112,C212 - 3.3uf 16v Tantalum\n\nR102,R202 - 100 ohms, 1/4W, 5%\nR103,R203 - 2.7k ohms, 1/4W, 5%\nR105,R205 - 4.7k ohms, 1/4W, 5%\nR106,R206,\nR107,R207 - 1 ohm, 1/4W, 5%\nR108,R208 - 100k ohms, 1/4W, 5%\nR109,R209 - 330 ohms, 1/4W, 5%\nR10,R11,\nR104,R204 - 1k ohms, 1/4W, 5%\n\nQ101,Q201,Q2 - 2SC458\nIC1, IC2 - MB3733\nIC4, IC5 - MB3110A
 $EndSCHEMATC

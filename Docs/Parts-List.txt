@@ -3,8 +3,8 @@ Parts List:
 C15 - 100uf 25v Electrolytic
 C101,C201 - 2200uf 25v Electrolytic
 C102,C202 - 4.7uf 25v Electrolytic
-C103,C203 - 220uf 10v Electrolytic
-C104,C204 - 10uf 10v Electrolytic
+C103,C203 - 10uf 16v Electrolytic
+C104,C204 - 220uf 16v Electrolytic
 C105,C205,
 C106,C206,
 C109,C209,

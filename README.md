@@ -8,6 +8,7 @@ available in the Docs directory.
 
 Change history:  
 1.0 - Initial version  
+1.1 - Swapped C3 and C4, fixed voltage ratings  
 
 To Do:  
 
