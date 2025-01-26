@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sega-839-0035-amp-rescue")(type "KiCad")(uri "${KIPRJMOD}/sega-839-0035-amp-rescue.kicad_sym")(options "")(descr ""))
+)
