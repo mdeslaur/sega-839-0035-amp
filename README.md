@@ -9,7 +9,7 @@ available in the Docs directory.
 Change history:  
 1.0 - 2022-07-18 - Initial version  
 1.1 - 2022-07-19 - Swapped C3 and C4, fixed voltage ratings  
-1.2 - 2025-01-25 Fixed inverted input polarity, added note about jumper  
+1.2 - 2025-01-25 - Fixed inverted input polarity, added note about jumper  
 
 To Do:  
 
